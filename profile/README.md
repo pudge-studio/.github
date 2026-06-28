@@ -53,34 +53,7 @@
 | 📖 | **Pudge Reader** | A calmer home for everything you read. | `🟡 in testing` |
 | 📷 | **Lentra** | A camera for people who'd rather shoot than filter. | `🔵 in development` |
 
-<sub>Every app is **offline, local-first, no accounts, no ads, no tracking.** Store and repo links go live as each one ships.</sub>
-
-<br />
-
-## 🦫 &nbsp; How we build
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🧱 &nbsp; Built to last
-Real code, real architecture, real design. The kind of work where you get the source, own your infrastructure, and never need us again unless you want to.
-
-</td>
-<td width="33%" valign="top">
-
-### 🔒 &nbsp; Yours, and private
-No lock-in, no telephone between strangers. One person who knows your project start to finish. Our apps collect nothing — what you do stays on your device.
-
-</td>
-<td width="33%" valign="top">
-
-### 🚢 &nbsp; We use what we build
-We ship our own apps, with real users and 2 AM edge cases. We don't just build for clients — we build for ourselves. That makes us better at building for you.
-
-</td>
-</tr>
-</table>
+<sub>We are a privacy-first studio. We try our best to make all our apps work **offline, local-first, with no accounts, ads, and tracking.** Store and repo links go live as each one ships.</sub>
 
 <br />
 <br />
