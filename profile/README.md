@@ -21,7 +21,6 @@
 
 [![Website](https://img.shields.io/badge/pudgestudio.com-1E2A4A?style=for-the-badge&logo=googlechrome&logoColor=E8862A)](https://pudgestudio.com)
 [![X](https://img.shields.io/badge/@pudgestudio-1E2A4A?style=for-the-badge&logo=x&logoColor=FBF9F5)](https://x.com/pudgestudio)
-[![Instagram](https://img.shields.io/badge/@pudge.studio-1E2A4A?style=for-the-badge&logo=instagram&logoColor=E8862A)](https://instagram.com/pudge.studio)
 [![Reddit](https://img.shields.io/badge/u%2Fpudgestudio-1E2A4A?style=for-the-badge&logo=reddit&logoColor=E8862A)](https://reddit.com/user/pudgestudio)
 [![Email](https://img.shields.io/badge/hello@pudgestudio.com-1E2A4A?style=for-the-badge&logo=gmail&logoColor=E8862A)](mailto:hello@pudgestudio.com)
 
@@ -37,9 +36,7 @@
 - 🏠 &nbsp; [Get to know the studio](https://pudgestudio.com/about)
 - 📦 &nbsp; [See the products](https://pudgestudio.com/products)
 - 🛠️ &nbsp; [How we work](https://pudgestudio.com/services)
-
-</details>
-
+  
 <br />
 
 ## 🛠️ &nbsp; What we're building
